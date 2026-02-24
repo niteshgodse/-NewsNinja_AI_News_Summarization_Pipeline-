@@ -76,13 +76,18 @@ NewsNinja/
 
 
 ### Start Backend
+```
 python backend.py
 
 Runs at:
 
 http://localhost:1234
+```
+
 ### Start Frontend
+```
 streamlit run streamlit_app.py
+```
 ### 📡 API Endpoint
 POST /generate-news-audio
 Request Body
