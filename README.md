@@ -1,4 +1,4 @@
-# NewsNinja
+# 🥷 NewsNinja
 ### AI-Powered News & Reddit Audio Summarizer
 
 NewsNinja is an end-to-end AI application that scrapes real-time News articles and Reddit discussions, generates broadcast-style summaries using Anthropic Claude, and converts them into high-quality MP3 audio using ElevenLabs.
