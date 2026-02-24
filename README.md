@@ -40,21 +40,13 @@ MP3 Audio Output
 ### Backend
 
 FastAPI
-
 AsyncIO
-
 LangGraph
-
 LangChain
-
 Anthropic API
-
 ElevenLabs SDK
-
 Pydantic
-
 Tenacity (Retry Logic)
-
 AIOLimiter (Rate Limiting)
 
 ### Frontend
@@ -64,9 +56,7 @@ Streamlit
 ### Utilities
 
 BrightData scraping
-
 dotenv
-
 Uvicorn
 
 # Project Structure
