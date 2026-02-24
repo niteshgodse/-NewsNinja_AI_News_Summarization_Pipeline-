@@ -60,6 +60,7 @@ dotenv
 Uvicorn
 
 # Project Structure
+,,,
 NewsNinja/
 │
 ├── backend.py
@@ -71,7 +72,7 @@ NewsNinja/
 ├── audio/
 ├── requirements.txt
 └── README.md
-
+,,,
 
 
 ### Start Backend
